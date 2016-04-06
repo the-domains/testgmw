@@ -1,0 +1,28 @@
+name: testgmw
+favicon: null
+layout_spectrum: 0.08075462025590241
+typography_spectrum: 0.056205608416348696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.27433537202887237
+  lightness: 0.05032307677902281
+  saturation: 0.13281585345976055
+  rhythmicContrast: 0.6232194909825921
+purpose: []
